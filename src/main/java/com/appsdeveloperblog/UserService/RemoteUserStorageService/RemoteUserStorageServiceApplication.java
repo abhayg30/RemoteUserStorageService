@@ -17,4 +17,6 @@ public class RemoteUserStorageServiceApplication {
 		return new BCryptPasswordEncoder();
 	}
 
+
+
 }
